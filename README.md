@@ -24,7 +24,7 @@ This Next.js project is configured for static export and optimized for SEO and s
 - Ensure repository settings allow GitHub Pages from `gh-pages` branch.
 
 ## Domain
-This project includes `CNAME` with `shafanacoffee.com`.
+This project includes `CNAME` with `shafanaquenshacoffee.com`.
 Configure DNS: add A records to GitHub Pages IPs and CNAME `www` to `<username>.github.io`.
 
 Contact: 0822-9827-4983 (WhatsApp)
